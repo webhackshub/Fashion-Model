@@ -144,12 +144,13 @@ main {
   }
 
   #element3 {
-    padding: 20px 40px;
+    padding: 10px 20px;
   }
 
   #element3 h1 {
-    font-size: 16vw;
-    line-height: 14vw;
+    font-size: 14vw;
+    font-weight: 500;
+    line-height: 13vw;
   }
 
   #element3 h1:nth-child(2n) {
